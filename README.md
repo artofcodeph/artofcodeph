@@ -20,8 +20,6 @@ Open for consulting, startup, and enterprise contracts worldwide! 🌍
 ### 🔭 What I'm Currently Working On
 
 * **[helpeerz-feather-v1](https://github.com/artofcodeph/helpeerz-feather-v1):** Actively pushing UI/UX and styling updates.
-* **[csharp-calculator](https://github.com/artofcodeph/csharp-calculator):** A recent C# project I spun up.
-* **[python-warmups](https://github.com/artofcodeph/python-warmups):** Keeping my Python skills sharp with new exercises.
 * **[arthurabogadil.com](https://github.com/artofcodeph/arthurabogadil.com):** Continuous tweaks and updates to my personal portfolio.
 
 ---
@@ -49,8 +47,8 @@ Here are the tools and languages I use to build the future:
 ### ⚡ Beyond the Code
 
 When I'm not writing clean code or architecting backend systems, you can usually find me:
-* **Hitting the Gym or the Road:** Staying active with cycling and weightlifting, or catching up on the latest professional tennis matches.
-* **Gaming:** Following the latest PC hardware benchmarks and spending some quality time on handhelds like the Lenovo Legion Go or Nintendo Switch.
+* **Hitting the Road:** Staying active with cycling, or catching up on the latest professional tennis matches.
+* **Gaming:** Following the latest PC hardware benchmarks and spending some quality time on handhelds like the Lenovo Legion Go or Nintendo Switch 2.
 * **Building the Collection:** Immersing myself in anime, manga, and tabletop culture—especially Gundam, Dragon Ball, Samurai X, Demon Slayer, and the One Piece card game.
 
 ---
