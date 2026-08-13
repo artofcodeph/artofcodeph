@@ -19,7 +19,7 @@ Open for consulting, startup, and enterprise contracts worldwide! 🌍
 
 ### 🔭 What I'm Currently Working On
 
-* **[helpeerz-feather-v1](https://github.com/artofcodeph/helpeerz-feather-v1):** Actively pushing UI/UX and styling updates.
+* **[helpeerz-feather-v1](https://github.com/artofcodeph/helpeerz-feather-v1):** Actively pushing code to bring this project to life.
 * **[arthurabogadil.com](https://github.com/artofcodeph/arthurabogadil.com):** Continuous tweaks and updates to my personal portfolio.
 
 ---
