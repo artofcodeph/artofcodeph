@@ -8,15 +8,6 @@ Open for consulting, startup, and enterprise contracts worldwide! 🌍
 
 ---
 
-### 📈 GitHub Stats & Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artofcodeph&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" height="150" alt="Arthur's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artofcodeph&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" height="150" alt="Arthur's Top Languages" />
-</div>
-
----
-
 ### 🔭 What I'm Currently Working On
 
 * **[helpeerz-feather-v1](https://github.com/artofcodeph/helpeerz-feather-v1):** Actively pushing code to bring this project to life.
