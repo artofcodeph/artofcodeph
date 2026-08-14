@@ -1,6 +1,6 @@
 # Hi there, I'm Arthur Abogadil 👋
 
-**Arthur Abogadil | Filipino Software, Web & Apps Architect and Developer.**
+**I'm a Filipino Software, Web & Apps Architect and Developer.**
 
 I'm a software, web, and app architect who loves building everything from custom WordPress solutions to enterprise-level business automation systems and startup MVPs. Whether it's architecting a mission-critical reporting system or building a real-time e-commerce platform, I enjoy experiencing life's journey through service, coding, and continuous learning.
 
