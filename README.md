@@ -11,8 +11,8 @@ Open for consulting, startup, and enterprise contracts worldwide! 🌍
 ### 🔭 What I'm Currently Working On
 
 * **[helpeerz-feather-v1](https://github.com/artofcodeph/helpeerz-feather-v1):** Actively pushing UI/UX and styling updates.
-* **[arthurabogadil.com](https://github.com/artofcodeph/arthurabogadil.com):** Continuous tweaks and updates to my personal portfolio.
 * **[pytests](https://github.com/artofcodeph/pytests):** A collection of high-quality Python guides, scripts, and tests designed for mastering core language concepts, from basic collections to advanced metaprogramming.
+* * **[arthurabogadil.com](https://github.com/artofcodeph/arthurabogadil.com):** Continuous tweaks and updates to my personal portfolio.
 * ** Also speaking at different engagements sharing what i know regarding software and web development. More on this soon.
 ---
 
