@@ -56,13 +56,13 @@ When I'm not writing clean code or architecting backend systems, you can usually
 
 <div align="center">
    <a href="https://arthurabogadil.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Official_Portfolio-arthurabogadil.com-0969da?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: arthurabogadil.com" />
+    <img src="https://img.shields.io/badge/Official_Portfolio-arthurabogadil.com-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: arthurabogadil.com" />
   </a>
   <a href="https://www.youtube.com/@throttlesandkeyboards" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube_Channel-Throttles_&_Keyboards-0969da?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Channel: https://www.youtube.com/@throttlesandkeyboards" />
+    <img src="https://img.shields.io/badge/Youtube_Channel-Throttles_&_Keyboards-FF0000?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Channel: https://www.youtube.com/@throttlesandkeyboards" />
   </a>
    <a href="mailto:connect@arthurabogadil.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Email-connect@arthurabogadil.com-0969da?style=for-the-badge&logo=gmail&logoColor=red" alt="Portfolio: connect@arthurabogadil.com" />
+    <img src="https://img.shields.io/badge/Email-connect@arthurabogadil.com-EA4335?style=for-the-badge&logo=gmail&logoColor=red" alt="Portfolio: connect@arthurabogadil.com" />
   </a>
 </div>
 
