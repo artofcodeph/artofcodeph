@@ -54,6 +54,16 @@ When I'm not writing clean code or architecting backend systems, you can usually
 
 ### 📫 Let's Connect!
 
+<div align="center">
+  <a href="https://www.youtube.com/@throttlesandkeyboards">
+    <img src="https://img.shields.io/badge/New_youtube_channel-@artofcodeph-2ea44f?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube: @ThrottlesAndKeyboards" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://arthurabogadil.com/">
+    <img src="https://img.shields.io/badge/Official_Portfolio-arthurabogadil.com-0969da?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: arthurabogadil.com" />
+  </a>
+</div>
+
 * **Website:** [arthurabogadil.com](https://arthurabogadil.com)
 * **Email:** connect@arthurabogadil.com
 * **YouTube:** [@throttlesandkeyboards](https://www.youtube.com/@throttlesandkeyboards)
