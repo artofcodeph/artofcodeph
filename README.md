@@ -56,7 +56,7 @@ When I'm not writing clean code or architecting backend systems, you can usually
 
 <div align="center">
   <a href="https://www.youtube.com/@throttlesandkeyboards">
-    <img src="https://img.shields.io/badge/New_youtube_channel-@artofcodeph-2ea44f?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube: @ThrottlesAndKeyboards" />
+    <img src="https://img.shields.io/badge/Youtube_Channel-@artofcodeph-2ea44f?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube: @ThrottlesAndKeyboards" />
   </a>
   &nbsp;&nbsp;
   <a href="https://arthurabogadil.com/">
