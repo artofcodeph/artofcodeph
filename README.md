@@ -2,7 +2,7 @@
 
 **I'm a Filipino Software, Web & Mobile Apps Architect and Developer.**
 
-I'm a software, web, and app architect who loves building everything from custom WordPress solutions to enterprise-level business automation systems and startup MVPs. Whether it's architecting a mission-critical reporting system or building a real-time e-commerce platform, I enjoy experiencing life's journey through service, coding, and continuous learning.
+I'm a software, web, and mobile apps architect who loves building everything from custom WordPress solutions to enterprise-level business automation systems and startup MVPs built using Python and C#. Whether it's architecting a mission-critical reporting system or building a real-time e-commerce platform, I enjoy experiencing life's journey through service, coding, and continuous learning.
 
 Open for consulting, startup, and enterprise contracts worldwide! 🌍
 
