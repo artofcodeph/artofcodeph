@@ -47,7 +47,7 @@ Here are the tools and languages I use to build the future:
 
 When I'm not writing clean code or architecting backend systems, you can usually find me:
 * **Hitting the Road:** Staying active with cycling, or catching up on the latest professional boxing and tennis matches.
-* **Gaming:** Following the latest PC hardware benchmarks and spending some quality time on handhelds like the Nintendo Switch 2.
+* **Gaming:** Following the latest PC hardware benchmarks and spending some quality time on handhelds like the Switch 2.
 * **Building the Collection:** Immersing myself in anime, manga, and tabletop culture—especially Gundam, Naruto, Demon Slayer, and the One Piece card game.
 
 ---
