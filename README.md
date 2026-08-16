@@ -59,7 +59,7 @@ When I'm not writing clean code or architecting backend systems, you can usually
     <img src="https://img.shields.io/badge/Official_Portfolio-arthurabogadil.com-0969da?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: arthurabogadil.com" />
   </a>
   <a href="https://www.youtube.com/@throttlesandkeyboards" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube_Channel-@ThrottlesAndKeyboards?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Channel: @throttlesandkeyboards" />
+    <img src="https://img.shields.io/badge/Youtube_Channel-Throttles_&_Keyboards-0969da?style=for-the-badge&logo=gmail&logoColor=red" alt="Portfolio: connect@arthurabogadil.com" />
   </a>
    <a href="mailto:connect@arthurabogadil.com/" target="_blank">
     <img src="https://img.shields.io/badge/Email-connect@arthurabogadil.com-0969da?style=for-the-badge&logo=gmail&logoColor=red" alt="Portfolio: connect@arthurabogadil.com" />
