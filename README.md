@@ -55,11 +55,17 @@ When I'm not writing clean code or architecting backend systems, you can usually
 ### 📫 Let's Connect!
 
 <div align="center">
- 
- [![YouTube](https://img.shields.io/badge/YOUTUBE_CHANNEL-333333?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@throttlesandkeyboards)
- [![Website](https://img.shields.io/badge/ARTHURABOGADIL.COM-0057D8?style=for-the-badge)](https://www.arthurabogadil.com)
- [![Email](https://img.shields.io/badge/CONNECT%40ARTHURABOGADIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect@arthurabogadil.com)
- 
+  <a href="https://github.com/artofcodeph">
+    <img src="https://img.shields.io/badge/New_GitHub_Profile-@artofcodeph-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="New GitHub Profile: @artofcodeph" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://arthurabogadil.com/">
+    <img src="https://img.shields.io/badge/Official_Portfolio-arthurabogadil.com-0969da?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: arthurabogadil.com" />
+  </a>
+   <a href="mailto:connect@arthurabogadil.com/">
+    <img src="https://img.shields.io/badge/Email-connect@arthurabogadil.com-0969da?style=for-the-badge&logo=gmail&logoColor=red" alt="Portfolio: connect@arthurabogadil.com" />
+  </a>
 </div>
+
 
 
