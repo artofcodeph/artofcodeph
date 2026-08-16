@@ -55,13 +55,13 @@ When I'm not writing clean code or architecting backend systems, you can usually
 ### 📫 Let's Connect!
 
 <div align="center">
-   a href="https://arthurabogadil.com/">
+   <a href="https://arthurabogadil.com/" target="_blank">
     <img src="https://img.shields.io/badge/Official_Portfolio-arthurabogadil.com-0969da?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: arthurabogadil.com" />
   </a>
-  <a href="https://www.youtube.com/@throttlesandkeyboards">
+  <a href="https://www.youtube.com/@throttlesandkeyboards" target="_blank">
     <img src="https://img.shields.io/badge/Youtube_Channel-@ThrottlesAndKeyboards?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Channel: @throttlesandkeyboards" />
   </a>
-   <a href="mailto:connect@arthurabogadil.com/">
+   <a href="mailto:connect@arthurabogadil.com/" target="_blank">
     <img src="https://img.shields.io/badge/Email-connect@arthurabogadil.com-0969da?style=for-the-badge&logo=gmail&logoColor=red" alt="Portfolio: connect@arthurabogadil.com" />
   </a>
 </div>
