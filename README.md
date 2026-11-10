@@ -39,7 +39,7 @@ Here are the tools and languages I use to build the future:
 * **[Prolook](https://www.prolook.com/):** Advanced custom sports apparel platform featuring real-time uniform design and complex order management.
 * **[Helpeerz](https://www.helpeerz.com/):** Ethically-designed social networking platform focusing on positive interaction and collaboration.
 * **[Enterprise Manufacturing (Hoya)](https://www.hoya.com/):** Architected a mission-critical internal reporting system handling massive volumes of data across Asia, optimizing for high-concurrency and integrity.
-* **[The Oasis Living](https://www.theoasisliving.com/):** Website and CRM platform for a multi-branch senior living organization.
+* **[KDR Music House](https://www.kdrmh.com/):** Website and Song Management platform for the publishing company.
 
 ---
 
